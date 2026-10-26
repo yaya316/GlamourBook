@@ -1,0 +1,32 @@
+[
+  {
+    "Author": "yaya316",
+    "Name": "幻化图鉴",
+    "InternalName": "GlamourBook",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "记录他人幻化外观（幻化物品优先，而非实际装备），按玩家名/世界/备注搜索浏览；对照自己的背包、武具库、幻化台与收藏柜，逐部位标出已有与缺失，可复制缺失清单。注意：试穿功能暂不可用；商城与副本来源为推断值。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/yaya316/GlamourBook",
+    "Tags": [
+      "glamour",
+      "examine",
+      "collection"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "记录别人的幻化，反查自己缺哪件。",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://github.com/yaya316/GlamourBook/releases/download/1.0.0.0/GlamourBook.zip",
+    "DownloadLinkUpdate": "https://github.com/yaya316/GlamourBook/releases/download/1.0.0.0/GlamourBook.zip",
+    "DownloadLinkTesting": "https://github.com/yaya316/GlamourBook/releases/download/1.0.0.0/GlamourBook.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 0
+  }
+]
