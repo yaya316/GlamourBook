@@ -1,0 +1,26 @@
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+
+  <!--
+    VERIFY-1: SDK 版本号。若你本地 NuGet 上没有 15.0.0，改成实际版本。
+    故意不写 TargetFramework —— Dalamud.NET.Sdk 会自己设成 net*-windows 并引用 Dalamud.dll。
+    这样就不用猜 .NET 版本。
+  -->
+  <PropertyGroup>
+    <Version>1.0.0.0</Version>
+    <AssemblyName>GlamourBook</AssemblyName>
+    <RootNamespace>GlamourBook</RootNamespace>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <!-- 少了这一行，所有文件都得手写 using System; 等，否则 List/Guid/DateTime 全都找不到 -->
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- 清单必须叫 <AssemblyName>.json 并放在输出目录 -->
+    <None Update="GlamourBook.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

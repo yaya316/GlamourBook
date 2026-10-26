@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\deepseek-harness\default-workspace\GlamourBook\obj\Debug\GlamourBook.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\deepseek-harness\default-workspace\GlamourBook\obj\Debug\GlamourBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\deepseek-harness\default-workspace\GlamourBook\obj\Debug\GlamourBook.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\deepseek-harness\default-workspace\GlamourBook\obj\Debug\GlamourBook.AssemblyInfo.cs
+C:\Users\Administrator\Documents\deepseek-harness\default-workspace\GlamourBook\obj\Debug\GlamourBook.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\deepseek-harness\default-workspace\GlamourBook\bin\Debug\GlamourBook.deps.json
+C:\Users\Administrator\Documents\deepseek-harness\default-workspace\GlamourBook\bin\Debug\GlamourBook.dll
+C:\Users\Administrator\Documents\deepseek-harness\default-workspace\GlamourBook\obj\Debug\GlamourBook.dll
